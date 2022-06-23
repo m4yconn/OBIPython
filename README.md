@@ -1,2 +1,2 @@
 # OBIPython
-Resolução de provas da OBI utilizando a linguagem de programação python.
+Resolução de provas de OBI utilizando a linguagem de programação python para fins acadêmicos.
